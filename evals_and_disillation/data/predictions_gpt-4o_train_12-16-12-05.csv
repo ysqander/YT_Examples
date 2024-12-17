@@ -1,0 +1,488 @@
+0,gpt-4o,Malbec,2024-12-16T11:05:46.458Z,Jean-Luc Baldès,Malbec,Malbec
+1,gpt-4o,Rosé,2024-12-16T11:05:45.993Z,Jean-Luc Colombo,Rosé,Rosé
+2,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:45.903Z,Château Mirambeau Papin,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+3,gpt-4o,Sauvignon Blanc,2024-12-16T11:05:46.605Z,Sauvion,Sauvignon Blanc,Sauvignon Blanc
+4,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:47.053Z,Château Belgrave,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+5,gpt-4o,Auxerrois,2024-12-16T11:05:47.288Z,Klipfel,Riesling,Riesling
+6,gpt-4o,Malbec,2024-12-16T11:05:47.312Z,Cave du Marmandais,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+7,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:47.892Z,Château des Bardes,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+8,gpt-4o,Merlot,2024-12-16T11:05:48.070Z,Domaine des Sabines,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+9,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:48.068Z,Vignerons de Buzet,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+10,gpt-4o,Champagne Blend,2024-12-16T11:05:48.819Z,Pommery,Champagne Blend,Champagne Blend
+11,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:48.821Z,Château Le Grand Moulin,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+12,gpt-4o,Petit Manseng,2024-12-16T11:05:48.822Z,Château de Jurque,Petit Manseng,Petit Manseng
+13,gpt-4o,Gamay,2024-12-16T11:05:49.843Z,Trenel Fils,Gamay,Gamay
+14,gpt-4o,Pinot Blanc,2024-12-16T11:05:49.844Z,Kuentz-Bas,Pinot Gris,Pinot Gris
+15,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:49.846Z,Château Lescalle,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+16,gpt-4o,Gamay,2024-12-16T11:05:50.660Z,Collin-Bourisset,Gamay,Gamay
+17,gpt-4o,Pinot Noir,2024-12-16T11:05:50.658Z,Domaine des Lambrays,Pinot Noir,Pinot Noir
+18,gpt-4o,Rosé,2024-12-16T11:05:50.659Z,Domaines Pierre Chavin,Rosé,Rosé
+19,gpt-4o,Champagne Blend,2024-12-16T11:05:51.436Z,Veuve Clicquot Ponsardin,Champagne Blend,Champagne Blend
+20,gpt-4o,Sauvignon Blanc,2024-12-16T11:05:51.375Z,Pascal Jolivet,Sauvignon Blanc,Sauvignon Blanc
+21,gpt-4o,Malbec,2024-12-16T11:05:51.485Z,Château Nozières,Malbec-Merlot,Malbec-Merlot
+22,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:52.809Z,Château Talbot,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+23,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:52.199Z,Château Angélus,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+24,gpt-4o,Gros and Petit Manseng,2024-12-16T11:05:52.403Z,Château de Jurque,Gros and Petit Manseng,Gros and Petit Manseng
+25,gpt-4o,Rhône-style White Blend,2024-12-16T11:05:53.217Z,Château de Nages,Rhône-style White Blend,Rhône-style White Blend
+26,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:05:53.490Z,Château Guirauton,Bordeaux-style White Blend,Bordeaux-style White Blend
+27,gpt-4o,Rosé,2024-12-16T11:05:53.561Z,La Vieille Ferme,Rosé,Rosé
+28,gpt-4o,Malbec,2024-12-16T11:05:54.139Z,Château Haut-Monplaisir,Malbec,Malbec
+29,gpt-4o,Pinot Noir,2024-12-16T11:05:54.444Z,Domaine Jessiaume,Pinot Noir,Pinot Noir
+30,gpt-4o,Petit Manseng,2024-12-16T11:05:54.446Z,Domaine d'Arton,Gros Manseng,Gros Manseng
+31,gpt-4o,Cabernet Franc,2024-12-16T11:05:54.815Z,Domaine du Clos de l'Elu,Cabernet Franc,Cabernet Franc
+32,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:55.877Z,Château Lynch-Bages,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+33,gpt-4o,Champagne Blend,2024-12-16T11:05:55.263Z,Mailly Grand Cru,Champagne Blend,Champagne Blend
+34,gpt-4o,Grenache-Syrah,2024-12-16T11:05:55.552Z,Marius,Grenache-Syrah,Grenache-Syrah
+35,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:56.287Z,Château Larose-Trintaudon,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+36,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:05:57.103Z,Château Doisy-Daëne,Bordeaux-style White Blend,Bordeaux-style White Blend
+37,gpt-4o,Rosé,2024-12-16T11:05:56.593Z,Château de Belcier,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+38,gpt-4o,Gewürztraminer,2024-12-16T11:05:57.104Z,Domaine Charles Frey,Gewürztraminer,Gewürztraminer
+39,gpt-4o,Pinot Noir,2024-12-16T11:05:57.341Z,Domaine Perrot-Minot,Pinot Noir,Pinot Noir
+40,gpt-4o,Auxerrois,2024-12-16T11:05:57.821Z,Joseph Fritsch,Gewürztraminer,Gewürztraminer
+41,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:57.826Z,Château Maurac,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+42,gpt-4o,Chardonnay,2024-12-16T11:05:58.234Z,Louis Jadot,Chardonnay,Chardonnay
+43,gpt-4o,Gamay,2024-12-16T11:05:58.725Z,Domaine de Billards,Gamay,Gamay
+44,gpt-4o,Rhône-style White Blend,2024-12-16T11:05:58.809Z,Cave de Tain,Marsanne,Marsanne
+45,gpt-4o,Champagne Blend,2024-12-16T11:05:59.001Z,Henriet-Bazin,Pinot Noir,Pinot Noir
+46,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:59.566Z,Château Lassègue,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+47,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:05:59.668Z,Château Pibran,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+48,gpt-4o,Sauvignon Blanc,2024-12-16T11:05:59.764Z,Maison Sichel,Bordeaux-style White Blend,Bordeaux-style White Blend
+49,gpt-4o,Riesling,2024-12-16T11:06:00.488Z,Domaine Jean Sipp,Riesling,Riesling
+50,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:31.552Z,Château Desmirail,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+51,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:31.581Z,Château de Belcier,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+52,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:31.543Z,Château Fombrauge,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+53,gpt-4o,Gamay,2024-12-16T11:06:32.283Z,Pascal Berthier,Gamay,Gamay
+54,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:32.290Z,Les Portes de Bordeaux,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+55,gpt-4o,Merlot,2024-12-16T11:06:32.276Z,Domaines Pierre Chavin,Cabernet Sauvignon,Cabernet Sauvignon
+56,gpt-4o,Rosé,2024-12-16T11:06:33.054Z,Prieuré de Montézargues,Rosé,Rosé
+57,gpt-4o,Rosé,2024-12-16T11:06:33.055Z,Mirabeau,Rosé,Rosé
+58,gpt-4o,Chenin Blanc,2024-12-16T11:06:33.091Z,Domaine des Baumard,Chenin Blanc,Chenin Blanc
+59,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:34.381Z,Château la Verrière,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+60,gpt-4o,Pinot Blanc,2024-12-16T11:06:33.872Z,Boeckel,Riesling,Riesling
+61,gpt-4o,Gamay,2024-12-16T11:06:33.874Z,Domaine Chasselay,Gamay,Gamay
+62,gpt-4o,Rosé,2024-12-16T11:06:35.407Z,Le Val,Rosé,Rosé
+63,gpt-4o,Melon,2024-12-16T11:06:34.601Z,Guilbaud Frères,Melon,Melon
+64,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:35.180Z,Château le Prieuré,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+65,gpt-4o,Champagne Blend,2024-12-16T11:06:35.288Z,Jacquart,Champagne Blend,Champagne Blend
+66,gpt-4o,Provence white blend,2024-12-16T11:06:35.925Z,Château Coussin,Rosé,Rosé
+67,gpt-4o,Grenache-Syrah,2024-12-16T11:06:36.511Z,Domaine Rotier,Red Blend,Red Blend
+68,gpt-4o,Chardonnay,2024-12-16T11:06:36.151Z,Domaine Chenevières,Chardonnay,Chardonnay
+69,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:36.771Z,Château Larrivet Haut-Brion,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+70,gpt-4o,Melon,2024-12-16T11:06:36.843Z,Le Charmel,Melon,Melon
+71,gpt-4o,Pinot Noir,2024-12-16T11:06:37.248Z,Frey-Sohler,Pinot Noir,Pinot Noir
+72,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:37.665Z,Château Piron,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+73,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:37.580Z,Château Caroline,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+74,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:06:38.030Z,Château de Rouillac,Bordeaux-style White Blend,Bordeaux-style White Blend
+75,gpt-4o,Champagne Blend,2024-12-16T11:06:38.791Z,Mailly Grand Cru,Champagne Blend,Champagne Blend
+76,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:06:38.581Z,Domaines Barons de Rothschild (Lafite),Bordeaux-style White Blend,Bordeaux-style White Blend
+77,gpt-4o,Riesling,2024-12-16T11:06:38.779Z,Lucien Albrecht,Gewürztraminer,Gewürztraminer
+78,gpt-4o,Gamay,2024-12-16T11:06:39.399Z,Ferraud et Fils,Gamay,Gamay
+79,gpt-4o,Champagne Blend,2024-12-16T11:06:39.506Z,Collet,Champagne Blend,Champagne Blend
+80,gpt-4o,Rhône-style Red Blend,2024-12-16T11:06:39.446Z,Alain Jaume et Fils,Rhône-style Red Blend,Rhône-style Red Blend
+81,gpt-4o,Rosé,2024-12-16T11:06:40.221Z,Domaine Campu Vecchiu,Rosé,Rosé
+82,gpt-4o,Rosé,2024-12-16T11:06:40.223Z,Château Pilet,Rosé,Rosé
+83,gpt-4o,Rosé,2024-12-16T11:06:40.256Z,Domaine du Petit Clocher,Rosé,Rosé
+84,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:40.938Z,Château Fleur Haut Gaussens,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+85,gpt-4o,Rosé,2024-12-16T11:06:40.937Z,Domaine Saint Roman d'Esclans,Rosé,Rosé
+86,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:41.004Z,Château La Bastienne,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+87,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:41.768Z,Château des Matards,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+88,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:41.786Z,Château Margaux,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+89,gpt-4o,Champagne Blend,2024-12-16T11:06:45.664Z,Nicolas Feuillatte,Champagne Blend,Champagne Blend
+90,gpt-4o,Syrah-Grenache,2024-12-16T11:06:42.982Z,Château du Donjon,Red Blend,Red Blend
+92,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:44.419Z,Château Haut-Bailly,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+93,gpt-4o,Chardonnay,2024-12-16T11:06:48.896Z,Château de Fuissé,Chardonnay,Chardonnay
+94,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:06:47.363Z,Château Labégorce Margaux,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+95,gpt-4o,Chardonnay,2024-12-16T11:06:48.608Z,Daniel Barraud,Chardonnay,Chardonnay
+96,gpt-4o,Pinot Noir,2024-12-16T11:06:50.179Z,Domaine Albert Mann,Pinot Noir,Pinot Noir
+97,gpt-4o,Provence red blend,2024-12-16T11:06:54.130Z,Les Maîtres Vignerons de la Presqu'île de Saint-Tropez,Rosé,Rosé
+98,gpt-4o,Chardonnay,2024-12-16T11:06:51.471Z,Cave des Vignerons de Buxy,Chardonnay,Chardonnay
+99,gpt-4o,Rhône-style White Blend,2024-12-16T11:06:52.903Z,Château La Nerthe,Rhône-style White Blend,Rhône-style White Blend
+100,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:25.032Z,Château La Fleur Peyrabon,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+101,gpt-4o,Cabernet Franc,2024-12-16T11:07:25.067Z,Château Roustaing,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+102,gpt-4o,Pinot Gris,2024-12-16T11:07:24.930Z,Joseph Fritsch,Pinot Gris,Pinot Gris
+103,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:25.761Z,Calvet,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+104,gpt-4o,Gamay,2024-12-16T11:07:25.736Z,Domaine Bertrand,Gamay,Gamay
+105,gpt-4o,Pinot Noir,2024-12-16T11:07:26.271Z,Domaine François Lamarche,Pinot Noir,Pinot Noir
+106,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:26.478Z,Château Réaut,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+107,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:07:26.474Z,Château de Bonhoste,Bordeaux-style White Blend,Bordeaux-style White Blend
+108,gpt-4o,Chardonnay,2024-12-16T11:07:27.016Z,Maison Champy,Chardonnay,Chardonnay
+109,gpt-4o,Pinot Noir,2024-12-16T11:07:27.215Z,Au Pied du Mont Chauve,Pinot Noir,Pinot Noir
+110,gpt-4o,Sparkling Blend,2024-12-16T11:07:27.768Z,Zusslin,Sparkling Blend,Sparkling Blend
+111,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:27.839Z,Château La Rose Poncet,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+112,gpt-4o,Sauvignon Blanc,2024-12-16T11:07:27.893Z,Château Marac,Bordeaux-style White Blend,Bordeaux-style White Blend
+113,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:28.655Z,Château Lalande-Borie,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+114,gpt-4o,Gros and Petit Manseng,2024-12-16T11:07:28.856Z,Château de Jurque,Gros and Petit Manseng,Gros and Petit Manseng
+115,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:28.690Z,Château Tronquoy-Lalande,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+116,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:29.574Z,Château Argadens,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+117,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:29.889Z,Château Mézain,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+118,gpt-4o,Gamay,2024-12-16T11:07:29.595Z,Vignerons de Bel Air,Gamay,Gamay
+119,gpt-4o,Gewürztraminer,2024-12-16T11:07:30.644Z,Rieflé,Pinot Gris,Pinot Gris
+120,gpt-4o,Rosé,2024-12-16T11:07:30.567Z,Andrieux & Fils,Rosé,Rosé
+121,gpt-4o,Chardonnay,2024-12-16T11:07:30.664Z,Chanson Père et Fils,Chardonnay,Chardonnay
+122,gpt-4o,Chardonnay,2024-12-16T11:07:32.023Z,Joseph Drouhin,Chardonnay,Chardonnay
+123,gpt-4o,Auxerrois,2024-12-16T11:07:31.981Z,Willm,Pinot Blanc,Pinot Blanc
+124,gpt-4o,Champagne Blend,2024-12-16T11:07:32.006Z,Louis Roederer,Champagne Blend,Champagne Blend
+125,gpt-4o,Malbec,2024-12-16T11:07:32.750Z,Château Lamartine,Malbec,Malbec
+126,gpt-4o,Malbec-Merlot,2024-12-16T11:07:32.818Z,Château de la Vieille Tour,Rosé,Rosé
+127,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:32.827Z,Château la Roque de By,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+128,gpt-4o,Pinot Noir,2024-12-16T11:07:34.009Z,Henri de Villamont,Pinot Noir,Pinot Noir
+129,gpt-4o,Pinot Noir,2024-12-16T11:07:33.573Z,Albert Bichot,Pinot Noir,Pinot Noir
+130,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:33.572Z,Château Léoville Poyferré,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+132,gpt-4o,Viognier,2024-12-16T11:07:37.674Z,E. Guigal,Viognier,Viognier
+133,gpt-4o,Auxerrois,2024-12-16T11:07:35.415Z,Domaine Vincent Stoeffler,Riesling,Riesling
+134,gpt-4o,Sauvignon Blanc,2024-12-16T11:07:37.617Z,Domaine Jean-Paul Picard,Sauvignon Blanc,Sauvignon Blanc
+135,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:42.359Z,Château Providence,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+136,gpt-4o,Sauvignon Blanc,2024-12-16T11:07:38.846Z,Domaine Patrice Moreux,Sauvignon Blanc,Sauvignon Blanc
+137,gpt-4o,Pinot Gris,2024-12-16T11:07:40.690Z,Domaines Schlumberger,Pinot Gris,Pinot Gris
+138,gpt-4o,Chasselas,2024-12-16T11:07:41.859Z,Domaine Schoffit,Chasselas,Chasselas
+139,gpt-4o,Chardonnay,2024-12-16T11:07:43.603Z,Deutz,Chardonnay,Chardonnay
+141,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:44.992Z,Château Lafleur-Gazin,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+143,gpt-4o,Grenache-Syrah,2024-12-16T11:07:46.332Z,Château Cabezac,Red Blend,Red Blend
+144,gpt-4o,Malbec,2024-12-16T11:07:47.427Z,Château de Chambert,Malbec-Merlot,Malbec-Merlot
+145,gpt-4o,Chardonnay,2024-12-16T11:07:48.787Z,Roux Père et Fils,Chardonnay,Chardonnay
+146,gpt-4o,Tannat,2024-12-16T11:07:50.584Z,Château d'Aydie,Tannat,Tannat
+147,gpt-4o,Pinot Noir,2024-12-16T11:07:51.632Z,Manuel Olivier,Pinot Noir,Pinot Noir
+148,gpt-4o,Champagne Blend,2024-12-16T11:07:52.731Z,Vollereaux,Pinot Noir,Pinot Noir
+149,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:07:53.984Z,Château de Ricaud,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+150,gpt-4o,White Blend,2024-12-16T11:08:25.027Z,Domaine Guillaman,White Blend,White Blend
+151,gpt-4o,Grenache-Syrah,2024-12-16T11:08:25.149Z,Domaine de Dionysos,Rhône-style Red Blend,Rhône-style Red Blend
+152,gpt-4o,Cabernet Franc,2024-12-16T11:08:24.976Z,Clos des Terrasses,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+153,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:25.802Z,Château du Moulin Rouge,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+154,gpt-4o,Gamay,2024-12-16T11:08:25.795Z,Vignerons de Bel Air,Gamay,Gamay
+155,gpt-4o,Rosé,2024-12-16T11:08:25.849Z,Domaine de la Métairie d'Alon,Rosé,Rosé
+156,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:26.513Z,Château du Taillan,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+157,gpt-4o,Malbec,2024-12-16T11:08:26.515Z,Château Eugénie,Malbec-Tannat,Malbec-Tannat
+158,gpt-4o,Gamay,2024-12-16T11:08:26.515Z,Domaine des Hospices Civils de Lyon,Gamay,Gamay
+159,gpt-4o,Pinot Noir,2024-12-16T11:08:27.332Z,Domaine Faiveley,Pinot Noir,Pinot Noir
+160,gpt-4o,Chenin Blanc,2024-12-16T11:08:27.333Z,Château Moncontour,Chenin Blanc,Chenin Blanc
+161,gpt-4o,Red Blend,2024-12-16T11:08:27.657Z,Domaine d'Escausses,Red Blend,Red Blend
+162,gpt-4o,Negrette,2024-12-16T11:08:28.049Z,Château Flotis,Negrette,Negrette
+163,gpt-4o,Chardonnay,2024-12-16T11:08:28.051Z,Les Héritiers du Comte Lafon,Chardonnay,Chardonnay
+164,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:28.460Z,Château Haut le Valette,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+165,gpt-4o,Pinot Noir,2024-12-16T11:08:28.763Z,Domaine Laleure-Piot,Pinot Noir,Pinot Noir
+166,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:28.779Z,Château Giscours,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+167,gpt-4o,Pinot Noir,2024-12-16T11:08:29.585Z,Alex Gambal,Pinot Noir,Pinot Noir
+168,gpt-4o,Chardonnay,2024-12-16T11:08:29.618Z,Louis Latour,Chardonnay,Chardonnay
+169,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:29.677Z,Château Puy Rigaud,Merlot,Merlot
+170,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:08:30.953Z,Château Vircoulon,Bordeaux-style White Blend,Bordeaux-style White Blend
+171,gpt-4o,Chardonnay,2024-12-16T11:08:30.328Z,Louis Latour,Chardonnay,Chardonnay
+172,gpt-4o,Rosé,2024-12-16T11:08:30.365Z,Château Brown,Rosé,Rosé
+173,gpt-4o,Sauvignon Blanc,2024-12-16T11:08:31.658Z,Vignobles Berthier,Sauvignon Blanc,Sauvignon Blanc
+174,gpt-4o,Provence white blend,2024-12-16T11:08:31.595Z,Domaine Terre de Mistral,Provence white blend,Provence white blend
+175,gpt-4o,Rosé,2024-12-16T11:08:32.070Z,Cave de Gan,Rosé,Rosé
+176,gpt-4o,Chardonnay,2024-12-16T11:08:32.750Z,Marcel Couturier,Chardonnay,Chardonnay
+177,gpt-4o,Sparkling Blend,2024-12-16T11:08:32.657Z,Cave de Saumur,Sparkling Blend,Sparkling Blend
+178,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:32.781Z,Les Caves Joseph,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+179,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:33.471Z,Chateau le Grand Verdus,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+181,gpt-4o,Provence red blend,2024-12-16T11:08:34.399Z,Domaine d'Arton,Red Blend,Red Blend
+182,gpt-4o,Champagne Blend,2024-12-16T11:08:34.607Z,Vincent Couche,Champagne Blend,Champagne Blend
+183,gpt-4o,Auxerrois,2024-12-16T11:08:36.070Z,Domaine Specht,Riesling,Riesling
+184,gpt-4o,Gewürztraminer,2024-12-16T11:08:40.304Z,Domaine Zinck,Gewürztraminer,Gewürztraminer
+185,gpt-4o,Malbec,2024-12-16T11:08:37.264Z,Château Armandière,Malbec,Malbec
+186,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:38.546Z,Château La Mothe du Barry,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+187,gpt-4o,Grenache-Syrah,2024-12-16T11:08:40.588Z,Château d'Or et de Gueules,Rhône-style Red Blend,Rhône-style Red Blend
+188,gpt-4o,Champagne Blend,2024-12-16T11:08:41.859Z,Nicolas Feuillatte,Champagne Blend,Champagne Blend
+189,gpt-4o,Chenin Blanc,2024-12-16T11:08:50.367Z,Domaine du Petit Métris,Chenin Blanc,Chenin Blanc
+190,gpt-4o,Pinot Noir,2024-12-16T11:08:43.594Z,Louis Max,Pinot Noir,Pinot Noir
+191,gpt-4o,Gamay,2024-12-16T11:08:43.854Z,Georges Duboeuf,Gamay,Gamay
+192,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:08:47.914Z,Château de la Vieille Tour,Bordeaux-style White Blend,Bordeaux-style White Blend
+193,gpt-4o,Rhône-style White Blend,2024-12-16T11:08:45.250Z,Paul Jaboulet Aîné,Rosé,Rosé
+194,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:46.568Z,Château Lamothe-Vincent,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+195,gpt-4o,Alsace white blend,2024-12-16T11:08:56.665Z,Domaine Marcel Deiss,Alsace white blend,Alsace white blend
+196,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:49.038Z,Château Nenin,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+197,gpt-4o,Chardonnay,2024-12-16T11:08:53.754Z,Château de Fuissé,Chardonnay,Chardonnay
+198,gpt-4o,Gamay,2024-12-16T11:08:51.605Z,Domaine de Thulon,Rosé,Rosé
+199,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:08:56.684Z,Château Gauthier,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+200,gpt-4o,Cabernet Franc,2024-12-16T11:09:27.545Z,Château de Parnay,Cabernet Franc,Cabernet Franc
+201,gpt-4o,Gamay,2024-12-16T11:09:28.565Z,Domaine du Vissoux,Gamay,Gamay
+202,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:27.544Z,Château la Haye,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+203,gpt-4o,Gamay,2024-12-16T11:09:28.797Z,Patriarche Père et Fils,Rosé,Rosé
+204,gpt-4o,Chardonnay,2024-12-16T11:09:28.796Z,Barton & Guestier,Chardonnay,Chardonnay
+205,gpt-4o,Chardonnay,2024-12-16T11:09:29.406Z,Terroirs et Talents,Chardonnay,Chardonnay
+206,gpt-4o,Gros and Petit Manseng,2024-12-16T11:09:29.578Z,Domaine l'Ancienne Cure,Bordeaux-style White Blend,Bordeaux-style White Blend
+207,gpt-4o,Champagne Blend,2024-12-16T11:09:29.470Z,Robert Klingenfus,Chardonnay,Chardonnay
+208,gpt-4o,Rosé,2024-12-16T11:09:30.184Z,Louis Bernard,Rosé,Rosé
+209,gpt-4o,Champagne Blend,2024-12-16T11:09:30.220Z,Jacquart,Champagne Blend,Champagne Blend
+210,gpt-4o,Rosé,2024-12-16T11:09:30.343Z,Ravoire et Fils,Rosé,Rosé
+211,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:31.317Z,Châteu Giscours,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+212,gpt-4o,Sauvignon Blanc,2024-12-16T11:09:31.366Z,Saget la Perrière,Sauvignon Blanc,Sauvignon Blanc
+213,gpt-4o,Pinot Noir,2024-12-16T11:09:31.073Z,Louis Latour,Pinot Noir,Pinot Noir
+214,gpt-4o,Champagne Blend,2024-12-16T11:09:31.724Z,Baron-Fuenté,Champagne Blend,Champagne Blend
+215,gpt-4o,Malbec,2024-12-16T11:09:31.933Z,Georges Vigouroux,Malbec,Malbec
+216,gpt-4o,Gewürztraminer,2024-12-16T11:09:32.059Z,René Muré,Gewürztraminer,Gewürztraminer
+217,gpt-4o,Chardonnay,2024-12-16T11:09:32.458Z,Jean-Luc and Paul Aegerter,Chardonnay,Chardonnay
+218,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:32.616Z,Clos Puy Arnaud,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+219,gpt-4o,Cabernet Franc,2024-12-16T11:09:32.755Z,Yannick Amirault,Cabernet Franc,Cabernet Franc
+220,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:33.169Z,Château Balestard la Tonnelle,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+221,gpt-4o,Chardonnay,2024-12-16T11:09:33.287Z,L. Tramier & Fils,Chardonnay,Chardonnay
+222,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:33.430Z,Château Margaux,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+223,gpt-4o,Syrah,2024-12-16T11:09:34.325Z,Jean-Luc Colombo,Syrah,Syrah
+224,gpt-4o,Chardonnay,2024-12-16T11:09:34.044Z,Rijckaert,Chardonnay,Chardonnay
+225,gpt-4o,Chardonnay,2024-12-16T11:09:34.080Z,Domaine Ferret,Chardonnay,Chardonnay
+226,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:34.710Z,Château Bouscaut,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+227,gpt-4o,Grenache-Syrah,2024-12-16T11:09:35.262Z,Château Virant,Rosé,Rosé
+228,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:35.497Z,Château de Bordes-Quancard,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+229,gpt-4o,Gewürztraminer,2024-12-16T11:09:35.412Z,Domaines Schlumberger,Riesling,Riesling
+230,gpt-4o,Chardonnay,2024-12-16T11:09:35.922Z,Olivier Leflaive,Chardonnay,Chardonnay
+232,gpt-4o,Gewürztraminer,2024-12-16T11:09:39.727Z,Frédéric Mallo,Gewürztraminer,Gewürztraminer
+233,gpt-4o,Gewürztraminer,2024-12-16T11:09:37.065Z,Gustave Lorentz,Gewürztraminer,Gewürztraminer
+234,gpt-4o,Sparkling Blend,2024-12-16T11:09:38.500Z,Domaine Fernand Engel,Sparkling Blend,Sparkling Blend
+235,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:43.821Z,Château du Taillan,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+236,gpt-4o,Chardonnay,2024-12-16T11:09:41.086Z,Pascal Bouchard,Chardonnay,Chardonnay
+237,gpt-4o,Champagne Blend,2024-12-16T11:09:42.502Z,Pol Roger,Champagne Blend,Champagne Blend
+239,gpt-4o,Pinot Noir,2024-12-16T11:09:45.098Z,Pierre Gruber,Pinot Noir,Pinot Noir
+240,gpt-4o,Sparkling Blend,2024-12-16T11:09:47.206Z,Joseph Cattin,Pinot Blanc,Pinot Blanc
+241,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:46.840Z,Château Les Petits,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+242,gpt-4o,Pinot Noir,2024-12-16T11:09:51.093Z,Henri de Villamont,Pinot Noir,Pinot Noir
+243,gpt-4o,Pinot Blanc,2024-12-16T11:09:48.842Z,André Blanck et ses Fils,Pinot Blanc,Pinot Blanc
+244,gpt-4o,Chardonnay,2024-12-16T11:09:49.607Z,Joseph Drouhin,Chardonnay,Chardonnay
+245,gpt-4o,Chardonnay,2024-12-16T11:09:59.241Z,Au Pied du Mont Chauve,Chardonnay,Chardonnay
+246,gpt-4o,Provence red blend,2024-12-16T11:09:52.403Z,Château de Brigue,Rhône-style Red Blend,Rhône-style Red Blend
+247,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:57.341Z,Château de Ferrand,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+248,gpt-4o,Champagne Blend,2024-12-16T11:09:53.624Z,Jean Josselin,Pinot Noir,Pinot Noir
+249,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:09:55.121Z,Château Roc de Boissac,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+250,gpt-4o,Syrah,2024-12-16T11:10:30.025Z,Paul Jaboulet Aîné,Rhône-style Red Blend,Rhône-style Red Blend
+251,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:10:29.991Z,Château Peyrabon,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+252,gpt-4o,Pinot Noir,2024-12-16T11:10:29.975Z,Derey Frères,Pinot Noir,Pinot Noir
+253,gpt-4o,Champagne Blend,2024-12-16T11:10:30.646Z,Billecart-Salmon,Champagne Blend,Champagne Blend
+254,gpt-4o,Grenache-Syrah,2024-12-16T11:10:30.713Z,Domaine Font de Michelle,Rhône-style Red Blend,Rhône-style Red Blend
+255,gpt-4o,Sparkling Blend,2024-12-16T11:10:30.692Z,Domaine des Baumard,Sparkling Blend,Sparkling Blend
+256,gpt-4o,Riesling,2024-12-16T11:10:31.397Z,Trimbach,Riesling,Riesling
+257,gpt-4o,Riesling,2024-12-16T11:10:31.944Z,Domaines Schlumberger,Pinot Gris,Pinot Gris
+258,gpt-4o,Rosé,2024-12-16T11:10:31.969Z,Bernard Magrez,Rosé,Rosé
+259,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:10:32.037Z,Château du Cartillon,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+260,gpt-4o,Melon,2024-12-16T11:10:33.135Z,Domaine de la Fruitière,Melon,Melon
+261,gpt-4o,Pinot Noir,2024-12-16T11:10:32.671Z,Faiveley,Pinot Noir,Pinot Noir
+262,gpt-4o,Malbec,2024-12-16T11:10:32.851Z,Château Lagrézette,Malbec,Malbec
+263,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:10:33.490Z,Château Moulin Eyquem,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+264,gpt-4o,Pinot Noir,2024-12-16T11:10:33.506Z,Domaine Ostertag,Pinot Noir,Pinot Noir
+265,gpt-4o,Rosé,2024-12-16T11:10:33.899Z,Château d'Esclans,Rosé,Rosé
+266,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:10:34.584Z,Château Potensac,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+267,gpt-4o,Pinot Noir,2024-12-16T11:10:34.541Z,Evening Land,Pinot Noir,Pinot Noir
+268,gpt-4o,Chenin Blanc,2024-12-16T11:10:34.574Z,Domaine des Baumard,Chenin Blanc,Chenin Blanc
+269,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:10:35.262Z,Château Lamothe Guignard,Bordeaux-style White Blend,Bordeaux-style White Blend
+270,gpt-4o,Pinot Noir,2024-12-16T11:10:35.289Z,Bouchard Père & Fils,Pinot Noir,Pinot Noir
+271,gpt-4o,Sauvignon Blanc,2024-12-16T11:10:39.104Z,A. de Luze et Fils,Sauvignon Blanc,Sauvignon Blanc
+272,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:10:36.006Z,Château de Parenchère,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+273,gpt-4o,Gamay,2024-12-16T11:10:35.930Z,Domaine Sauvat,Gamay,Gamay
+274,gpt-4o,Rosé,2024-12-16T11:10:36.682Z,Château des Antonins,Rosé,Rosé
+275,gpt-4o,Chardonnay,2024-12-16T11:10:36.656Z,Chanson Père et Fils,Chardonnay,Chardonnay
+276,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:10:37.382Z,Château Haut Selve,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+277,gpt-4o,Pinot Noir,2024-12-16T11:10:37.380Z,Antonin Rodet,Pinot Noir,Pinot Noir
+278,gpt-4o,Gamay,2024-12-16T11:10:38.106Z,Domaine Gerard Charvet,Gamay,Gamay
+279,gpt-4o,Tannat,2024-12-16T11:10:38.100Z,Famille Laplace,Tannat,Tannat
+280,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:10:38.813Z,Château de Parenchère,Bordeaux-style White Blend,Bordeaux-style White Blend
+281,gpt-4o,Chardonnay,2024-12-16T11:10:39.252Z,Domaine Laroche,Chardonnay,Chardonnay
+282,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:10:43.201Z,Horeau-Beylot,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+283,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:10:40.552Z,Château Mémoires,Sauvignon Blanc,Sauvignon Blanc
+285,gpt-4o,Rosé,2024-12-16T11:10:41.819Z,Château Sainte Marguerite,Rosé,Rosé
+286,gpt-4o,Auxerrois,2024-12-16T11:10:51.620Z,Kuentz-Bas,Pinot Gris,Pinot Gris
+287,gpt-4o,Viognier,2024-12-16T11:10:44.511Z,Paul Jaboulet Aîné,Viognier,Viognier
+288,gpt-4o,Champagne Blend,2024-12-16T11:10:45.641Z,De Sousa & Fils,Chardonnay,Chardonnay
+289,gpt-4o,Pinot Noir,2024-12-16T11:10:47.002Z,Chanson Père et Fils,Pinot Noir,Pinot Noir
+290,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:10:48.425Z,Château Roquefort,Bordeaux-style White Blend,Bordeaux-style White Blend
+291,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:10:49.565Z,Château Roc Meynard,Bordeaux-style White Blend,Bordeaux-style White Blend
+292,gpt-4o,Viognier,2024-12-16T11:10:59.397Z,E. Guigal,Viognier,Viognier
+293,gpt-4o,Rosé,2024-12-16T11:10:51.306Z,Domaines Ott,Rosé,Rosé
+294,gpt-4o,Chardonnay,2024-12-16T11:10:56.665Z,Joseph Drouhin,Chardonnay,Chardonnay
+295,gpt-4o,Trousseau,2024-12-16T11:10:53.046Z,Domaine Pignier,Trousseau,Trousseau
+296,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:10:54.283Z,Château Tronquoy-Lalande,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+297,gpt-4o,Pinot Noir,2024-12-16T11:10:55.969Z,Louis Latour,Pinot Noir,Pinot Noir
+298,gpt-4o,Pinot Noir,2024-12-16T11:10:57.831Z,Jean-Luc and Paul Aegerter,Pinot Noir,Pinot Noir
+299,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:10:57.834Z,Château Ducru Beaucaillou,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+300,gpt-4o,Sauvignon Blanc,2024-12-16T11:11:30.139Z,Roger et Didier Raimbault,Sauvignon Blanc,Sauvignon Blanc
+301,gpt-4o,Chardonnay,2024-12-16T11:11:30.134Z,Jean-Luc and Paul Aegerter,Chardonnay,Chardonnay
+302,gpt-4o,Chardonnay,2024-12-16T11:11:30.343Z,Jean-Luc and Paul Aegerter,Chardonnay,Chardonnay
+303,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:30.902Z,Château Léoville Las Cases,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+304,gpt-4o,Chardonnay,2024-12-16T11:11:31.096Z,La Chablisienne,Chardonnay,Chardonnay
+305,gpt-4o,Champagne Blend,2024-12-16T11:11:31.012Z,Gustave Lorentz,Sparkling Blend,Sparkling Blend
+306,gpt-4o,Chardonnay,2024-12-16T11:11:31.551Z,Albert Bichot,Chardonnay,Chardonnay
+307,gpt-4o,Rosé,2024-12-16T11:11:31.683Z,Maison Denuzière,Rosé,Rosé
+308,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:31.772Z,Château Garreau,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+309,gpt-4o,Pinot Noir,2024-12-16T11:11:32.229Z,Bouchard Père & Fils,Pinot Noir,Pinot Noir
+310,gpt-4o,Gamay,2024-12-16T11:11:32.378Z,Château de Lavernette,Gamay,Gamay
+311,gpt-4o,Rhône-style White Blend,2024-12-16T11:11:32.787Z,Vignobles La Coterie,Rhône-style White Blend,Rhône-style White Blend
+312,gpt-4o,Champagne Blend,2024-12-16T11:11:32.891Z,Louis Roederer,Champagne Blend,Champagne Blend
+313,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:33.298Z,Château Duhart-Milon,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+314,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:33.506Z,Château la Garde,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+315,gpt-4o,Pinot Gris,2024-12-16T11:11:33.660Z,Baumann,Pinot Gris,Pinot Gris
+316,gpt-4o,Gewürztraminer,2024-12-16T11:11:34.210Z,Klipfel,Gewürztraminer,Gewürztraminer
+317,gpt-4o,Malbec,2024-12-16T11:11:34.211Z,Château Saint-Sernin,Malbec,Malbec
+318,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:34.518Z,Château de Chantegrive,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+319,gpt-4o,Chardonnay,2024-12-16T11:11:34.996Z,Domaine Louis Moreau,Chardonnay,Chardonnay
+320,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:34.998Z,Château Tour Saint-Joseph,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+321,gpt-4o,Provence red blend,2024-12-16T11:11:35.169Z,Domaine la Bastide Blanche,Rhône-style Red Blend,Rhône-style Red Blend
+322,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:39.801Z,Château Bellevue,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+323,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:35.715Z,Château La Cardonne,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+324,gpt-4o,Riesling,2024-12-16T11:11:35.969Z,Domaine Bott-Geyl,Riesling,Riesling
+325,gpt-4o,Pinot Noir,2024-12-16T11:11:36.566Z,Roux Père et Fils,Pinot Noir,Pinot Noir
+326,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:11:36.693Z,Château Fombrauge,Bordeaux-style White Blend,Bordeaux-style White Blend
+327,gpt-4o,Sauvignon Blanc,2024-12-16T11:11:37.452Z,Domaine Cédrick Bardin,Sauvignon Blanc,Sauvignon Blanc
+328,gpt-4o,Chardonnay,2024-12-16T11:11:37.453Z,Domaine Begude,Chardonnay,Chardonnay
+329,gpt-4o,Cabernet Franc,2024-12-16T11:11:47.759Z,Pascal & Alain Lorieux,Cabernet Franc,Cabernet Franc
+330,gpt-4o,Rosé,2024-12-16T11:11:38.224Z,Ravoire et Fils,Rosé,Rosé
+331,gpt-4o,Gewürztraminer,2024-12-16T11:11:39.536Z,Domaines Schlumberger,Gewürztraminer,Gewürztraminer
+332,gpt-4o,Chardonnay,2024-12-16T11:11:41.382Z,Vignerons des Terres Secrètes,Chardonnay,Chardonnay
+333,gpt-4o,Syrah-Grenache,2024-12-16T11:11:42.117Z,Château de Lancyre,Rosé,Rosé
+334,gpt-4o,Pinot Noir,2024-12-16T11:11:42.272Z,Capitain-Gagnerot,Pinot Noir,Pinot Noir
+335,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:44.116Z,Château la Haye,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+336,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:44.281Z,Château Cheval Blanc,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+337,gpt-4o,Chardonnay,2024-12-16T11:11:54.625Z,Domaine Guy & Yan Dufouleur,Chardonnay,Chardonnay
+338,gpt-4o,Grenache-Syrah,2024-12-16T11:11:45.854Z,Hecht & Bannier,Rhône-style Red Blend,Rhône-style Red Blend
+339,gpt-4o,Pinot Noir,2024-12-16T11:11:47.445Z,Louis Jadot,Pinot Noir,Pinot Noir
+340,gpt-4o,Rhône-style Red Blend,2024-12-16T11:11:51.311Z,Domaine Fincham,Grenache-Syrah,Grenache-Syrah
+341,gpt-4o,Malbec,2024-12-16T11:11:49.233Z,Jean-Luc Baldès,Malbec,Malbec
+342,gpt-4o,Provence red blend,2024-12-16T11:11:50.809Z,Château Val d'Arenc,Rosé,Rosé
+343,gpt-4o,Muscat,2024-12-16T11:12:00.591Z,Laurent de Bescombes Singla,White Blend,White Blend
+344,gpt-4o,Grenache-Syrah,2024-12-16T11:11:52.543Z,Mas des Bressades,Syrah-Grenache,Syrah-Grenache
+345,gpt-4o,Cabernet Franc,2024-12-16T11:11:54.237Z,Château de Targé,Cabernet Franc,Cabernet Franc
+346,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:11:59.302Z,Château Balac,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+347,gpt-4o,Rosé,2024-12-16T11:11:56.333Z,Les Quatre Tours,Rosé,Rosé
+348,gpt-4o,Sauvignon Blanc,2024-12-16T11:11:57.048Z,Florent Descombe,Sauvignon Blanc,Sauvignon Blanc
+349,gpt-4o,Chardonnay,2024-12-16T11:11:57.827Z,Georges Duboeuf,Chardonnay,Chardonnay
+350,gpt-4o,Pinot Noir,2024-12-16T11:12:31.345Z,Alex Gambal,Pinot Noir,Pinot Noir
+351,gpt-4o,Grenache-Syrah,2024-12-16T11:12:31.351Z,Mas des Mas,Rhône-style Red Blend,Rhône-style Red Blend
+352,gpt-4o,Tannat,2024-12-16T11:12:31.299Z,Clos Venturi,Red Blend,Red Blend
+353,gpt-4o,Malbec,2024-12-16T11:12:31.955Z,Clos Troteligotte,Malbec,Malbec
+354,gpt-4o,Red Blend,2024-12-16T11:12:31.982Z,Domaine de la Mordorée,Rosé,Rosé
+355,gpt-4o,Chardonnay,2024-12-16T11:12:31.985Z,Domaine Perraud,Chardonnay,Chardonnay
+356,gpt-4o,Syrah,2024-12-16T11:12:32.686Z,Cave de Tain,Syrah,Syrah
+357,gpt-4o,Chardonnay,2024-12-16T11:12:32.688Z,Jacques Simonin,Chardonnay,Chardonnay
+358,gpt-4o,Chardonnay,2024-12-16T11:12:32.688Z,Domaine Faiveley,Chardonnay,Chardonnay
+359,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:12:33.407Z,Château de Lagarde,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+360,gpt-4o,Gewürztraminer,2024-12-16T11:12:33.407Z,Trimbach,Pinot Gris,Pinot Gris
+361,gpt-4o,Gamay,2024-12-16T11:12:33.405Z,Domaine de Gry-Sablon,Gamay,Gamay
+362,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:12:34.465Z,Goulée,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+363,gpt-4o,Chardonnay,2024-12-16T11:12:34.834Z,Henri de Villamont,Chardonnay,Chardonnay
+364,gpt-4o,Jacquère,2024-12-16T11:12:34.347Z,Bernard et Christophe Richel,Jacquère,Jacquère
+365,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:12:35.507Z,Château Cabredon,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+366,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:12:35.177Z,Château Les Hauts de Palette,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+367,gpt-4o,Chardonnay,2024-12-16T11:12:35.486Z,Château de Santenay,Chardonnay,Chardonnay
+368,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:12:35.885Z,Château Sainte-Barbe,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+369,gpt-4o,Viognier,2024-12-16T11:12:36.372Z,Gilles Flacher,Viognier,Viognier
+370,gpt-4o,Malbec,2024-12-16T11:12:36.373Z,Château Eugénie,Malbec-Merlot,Malbec-Merlot
+371,gpt-4o,Melon,2024-12-16T11:12:36.673Z,Domaine de l'Ecu,Melon,Melon
+372,gpt-4o,Gamay,2024-12-16T11:12:37.399Z,Domaine André Colonge,Gamay,Gamay
+373,gpt-4o,Grenache-Syrah,2024-12-16T11:12:37.396Z,Ferraton Pere et Fils,Rhône-style Red Blend,Rhône-style Red Blend
+374,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:12:37.519Z,Château la Maroutine,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+375,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:12:38.663Z,Domaine D'en Ségur,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+376,gpt-4o,Pinot Noir,2024-12-16T11:12:38.321Z,L. Tramier & Fils,Pinot Noir,Pinot Noir
+377,gpt-4o,Rosé,2024-12-16T11:12:38.319Z,Domaine de la Sanglière,Rosé,Rosé
+378,gpt-4o,Pinot Blanc,2024-12-16T11:12:38.971Z,Domaine Ostertag,Pinot Gris,Pinot Gris
+379,gpt-4o,Gewürztraminer,2024-12-16T11:12:39.136Z,Joseph Fritsch,Gewürztraminer,Gewürztraminer
+380,gpt-4o,Pinot Noir,2024-12-16T11:12:40.158Z,Manuel Olivier,Pinot Noir,Pinot Noir
+381,gpt-4o,Pinot Noir,2024-12-16T11:12:49.375Z,Domaine Laleure-Piot,Pinot Noir,Pinot Noir
+382,gpt-4o,Rosé,2024-12-16T11:12:44.152Z,Château de Brigue,Rosé,Rosé
+383,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:12:41.469Z,Vignobles Carreau Selection,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+384,gpt-4o,Sauvignon Blanc,2024-12-16T11:12:42.765Z,Domaine Jean-Pierre Vacher et Fils,Sauvignon Blanc,Sauvignon Blanc
+386,gpt-4o,Sauvignon Blanc,2024-12-16T11:12:45.611Z,Jean-Michel Sorbe,Sauvignon Blanc,Sauvignon Blanc
+387,gpt-4o,Provence white blend,2024-12-16T11:12:46.687Z,Domaine Houchart,Provence white blend,Provence white blend
+388,gpt-4o,Pinot Blanc,2024-12-16T11:12:48.016Z,Jean-Baptiste Adam,Pinot Blanc,Pinot Blanc
+389,gpt-4o,Sauvignon Blanc,2024-12-16T11:12:53.368Z,Domaine Benoît & Mathieu Fleuriet,Sauvignon Blanc,Sauvignon Blanc
+390,gpt-4o,Sauvignon Blanc,2024-12-16T11:12:50.762Z,Pascal Jolivet,Sauvignon Blanc,Sauvignon Blanc
+391,gpt-4o,Malbec,2024-12-16T11:12:52.048Z,Georges Vigouroux,Malbec,Malbec
+392,gpt-4o,Pinot Noir,2024-12-16T11:13:01.561Z,Domaine Faiveley,Pinot Noir,Pinot Noir
+393,gpt-4o,Champagne Blend,2024-12-16T11:12:58.240Z,Billecart-Salmon,Champagne Blend,Champagne Blend
+394,gpt-4o,Sauvignon Blanc,2024-12-16T11:12:54.714Z,Fournier Père et Fils,Sauvignon Blanc,Sauvignon Blanc
+395,gpt-4o,Champagne Blend,2024-12-16T11:12:56.118Z,Ruinart,Chardonnay,Chardonnay
+396,gpt-4o,Champagne Blend,2024-12-16T11:12:57.756Z,Heidsieck & Co Monopole,Champagne Blend,Champagne Blend
+397,gpt-4o,Jacquère,2024-12-16T11:13:01.872Z,Domaine les Cantates,Jacquère,Jacquère
+398,gpt-4o,Provence red blend,2024-12-16T11:13:01.872Z,Château Grand Boise,Provence red blend,Provence red blend
+399,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:13:02.379Z,Château Monroze,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+400,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:13:33.153Z,Château Belle-Vue,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+401,gpt-4o,Chardonnay,2024-12-16T11:13:33.114Z,Domaine Chenevières,Chardonnay,Chardonnay
+402,gpt-4o,Chardonnay,2024-12-16T11:13:33.153Z,Domaine Faiveley,Chardonnay,Chardonnay
+403,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:13:33.857Z,Château Grand Bertin de Saint Clair,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+404,gpt-4o,Chardonnay,2024-12-16T11:13:33.830Z,Thiénot,Chardonnay,Chardonnay
+405,gpt-4o,Pinot Noir,2024-12-16T11:13:33.817Z,Michel et Joana Ecard,Pinot Noir,Pinot Noir
+406,gpt-4o,Muscat,2024-12-16T11:13:34.534Z,Kuentz-Bas,Muscat,Muscat
+407,gpt-4o,Chardonnay,2024-12-16T11:13:34.559Z,Chartron et Trébuchet,Chardonnay,Chardonnay
+408,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:13:34.546Z,Château Malartic-Lagravière,Bordeaux-style White Blend,Bordeaux-style White Blend
+409,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:13:35.376Z,Château de Rayne Vigneau,Bordeaux-style White Blend,Bordeaux-style White Blend
+410,gpt-4o,Sauvignon Blanc,2024-12-16T11:13:35.251Z,Nicolas Gaudry,Sauvignon Blanc,Sauvignon Blanc
+411,gpt-4o,Sylvaner,2024-12-16T11:13:36.079Z,René Muré,Sylvaner,Sylvaner
+412,gpt-4o,Gros and Petit Manseng,2024-12-16T11:13:35.976Z,Domaine de Joÿ,White Blend,White Blend
+413,gpt-4o,Gamay,2024-12-16T11:13:36.014Z,Domaine de la Bonne Tonne,Gamay,Gamay
+414,gpt-4o,Chardonnay,2024-12-16T11:13:36.692Z,Le Brun de Neuville,Chardonnay,Chardonnay
+415,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:13:36.695Z,Château Grand Rolland,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+416,gpt-4o,Rosé,2024-12-16T11:13:40.067Z,Domaine Charles Frey,Pinot Noir,Pinot Noir
+417,gpt-4o,Chardonnay,2024-12-16T11:13:37.659Z,Simonnet-Febvre,Chardonnay,Chardonnay
+418,gpt-4o,Pinot Noir,2024-12-16T11:13:37.504Z,Louis Jadot,Pinot Noir,Pinot Noir
+419,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:13:38.211Z,Château Valade,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+420,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:13:38.330Z,Château Suduiraut,Bordeaux-style White Blend,Bordeaux-style White Blend
+421,gpt-4o,Pinot Noir,2024-12-16T11:13:39.125Z,Domaine Champy,Pinot Noir,Pinot Noir
+422,gpt-4o,Red Blend,2024-12-16T11:13:39.040Z,Domaine de Pellehaut,Rosé,Rosé
+423,gpt-4o,Champagne Blend,2024-12-16T11:13:39.758Z,J. de Telmont,Champagne Blend,Champagne Blend
+424,gpt-4o,Rosé,2024-12-16T11:13:39.880Z,Château l'Orangerie,Rosé,Rosé
+425,gpt-4o,Negrette,2024-12-16T11:13:40.474Z,Château la Colombière,Negrette,Negrette
+426,gpt-4o,Grenache-Syrah,2024-12-16T11:13:40.540Z,Clos de l'Hermitage,Rhône-style Red Blend,Rhône-style Red Blend
+427,gpt-4o,Melon,2024-12-16T11:13:40.755Z,Domaine du Haut Bourg,Melon,Melon
+428,gpt-4o,Pinot Gris,2024-12-16T11:13:41.108Z,Domaine Michel Fonne,Pinot Gris,Pinot Gris
+429,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:13:41.230Z,Château Lamothe-Vincent,Merlot,Merlot
+430,gpt-4o,Gamay,2024-12-16T11:13:50.475Z,Domaine Dupeuble Père et Fils,Gamay,Gamay
+431,gpt-4o,Pinot Blanc,2024-12-16T11:13:42.419Z,Domaine François Schmitt,Auxerrois,Auxerrois
+432,gpt-4o,Gewürztraminer,2024-12-16T11:13:46.243Z,Jean Albrecht,Gewürztraminer,Gewürztraminer
+433,gpt-4o,Rosé,2024-12-16T11:13:43.724Z,Domaine Montrose,Rosé,Rosé
+434,gpt-4o,Gamay,2024-12-16T11:13:44.932Z,Vignerons de Bel Air,Gamay,Gamay
+436,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:13:47.961Z,Château Croizet-Bages,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+437,gpt-4o,Chardonnay,2024-12-16T11:13:48.880Z,Simonnet-Febvre,Chardonnay,Chardonnay
+438,gpt-4o,Chardonnay,2024-12-16T11:13:53.154Z,Domaines Devillard,Chardonnay,Chardonnay
+439,gpt-4o,Pinot Noir,2024-12-16T11:13:52.516Z,Domaine Faiveley,Pinot Noir,Pinot Noir
+440,gpt-4o,Grenache-Syrah,2024-12-16T11:13:53.682Z,Château Cabezac,Rhône-style Red Blend,Rhône-style Red Blend
+441,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:13:58.408Z,Château Larose Perganson,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+442,gpt-4o,Sparkling Blend,2024-12-16T11:13:54.975Z,Wolfberger,Riesling,Riesling
+443,gpt-4o,Gamay,2024-12-16T11:13:56.344Z,Vaucher Père et Fils,Gamay,Gamay
+444,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:14:04.597Z,Château le Grand Moulin,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+445,gpt-4o,Sauvignon Blanc,2024-12-16T11:13:57.998Z,Domaine Laporte,Sauvignon Blanc,Sauvignon Blanc
+446,gpt-4o,Rosé,2024-12-16T11:14:02.292Z,Cheval Quancard,Rosé,Rosé
+447,gpt-4o,Gamay,2024-12-16T11:13:59.623Z,Vignerons de Bel Air,Gamay,Gamay
+448,gpt-4o,Chenin Blanc,2024-12-16T11:14:01.414Z,Domaine des Baumard,Chenin Blanc,Chenin Blanc
+449,gpt-4o,Chardonnay,2024-12-16T11:14:02.532Z,Robert Skalli,Chardonnay,Chardonnay
+450,gpt-4o,Viognier,2024-12-16T11:14:35.317Z,Paul Jaboulet Aîné,Viognier,Viognier
+451,gpt-4o,Chenin Blanc,2024-12-16T11:14:35.839Z,Moulin Touchais,Chenin Blanc,Chenin Blanc
+452,gpt-4o,Pinot Noir,2024-12-16T11:14:35.287Z,Au Pied du Mont Chauve,Pinot Noir,Pinot Noir
+453,gpt-4o,Chardonnay,2024-12-16T11:14:35.959Z,Christophe Cordier,Chardonnay,Chardonnay
+454,gpt-4o,Picpoul,2024-12-16T11:14:35.997Z,Saint-Jean des Sources,Picpoul,Picpoul
+455,gpt-4o,Bordeaux-style White Blend,2024-12-16T11:14:36.744Z,Château Coutet,Bordeaux-style White Blend,Bordeaux-style White Blend
+456,gpt-4o,Chardonnay,2024-12-16T11:14:36.698Z,Roux Père et Fils,Chardonnay,Chardonnay
+457,gpt-4o,Chardonnay,2024-12-16T11:14:36.700Z,Louis Latour,Chardonnay,Chardonnay
+458,gpt-4o,Malbec,2024-12-16T11:14:37.516Z,Château Lagrézette,Malbec,Malbec
+459,gpt-4o,Rhône-style Red Blend,2024-12-16T11:14:37.515Z,Les Vignerons de Tautavel Vingrau,Rhône-style Red Blend,Rhône-style Red Blend
+460,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:14:37.513Z,Vignerons de Buzet,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+461,gpt-4o,Alsace white blend,2024-12-16T11:14:38.537Z,Vignoble des 2 Lunes,Sparkling Blend,Sparkling Blend
+462,gpt-4o,Gamay,2024-12-16T11:14:38.539Z,Yohan Lardy,Gamay,Gamay
+463,gpt-4o,Malbec,2024-12-16T11:14:38.128Z,Jean-Luc Baldès,Malbec,Malbec
+464,gpt-4o,Chardonnay,2024-12-16T11:14:38.946Z,Domaine L. Chatelain,Chardonnay,Chardonnay
+465,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:14:39.338Z,Château Espérance,Bordeaux-style White Blend,Bordeaux-style White Blend
+466,gpt-4o,Red Blend,2024-12-16T11:14:39.251Z,Vignerons de Buzet,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+467,gpt-4o,Chardonnay,2024-12-16T11:14:39.969Z,Jean-Marc Brocard,Chardonnay,Chardonnay
+468,gpt-4o,Chenin Blanc,2024-12-16T11:14:40.244Z,Domaine Vincent Carême,Chenin Blanc,Chenin Blanc
+469,gpt-4o,Chardonnay,2024-12-16T11:14:40.160Z,Château de Chatelard,Chardonnay,Chardonnay
+470,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:14:40.682Z,Château Bonnin,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+471,gpt-4o,Gewürztraminer,2024-12-16T11:14:40.994Z,Domaine Zind-Humbrecht,Gewürztraminer,Gewürztraminer
+472,gpt-4o,Pinot Noir,2024-12-16T11:14:40.993Z,Domaine Jayer-Gilles,Pinot Noir,Pinot Noir
+473,gpt-4o,Riesling,2024-12-16T11:14:41.466Z,Cave de Kientzheim-Kaysersberg,Riesling,Riesling
+474,gpt-4o,Sauvignon Blanc,2024-12-16T11:14:41.745Z,Domaine Vacheron,Sauvignon Blanc,Sauvignon Blanc
+475,gpt-4o,Melon,2024-12-16T11:14:41.727Z,Gadais Père et Fils,Melon,Melon
+476,gpt-4o,Gewürztraminer,2024-12-16T11:14:42.120Z,Domaine Zind-Humbrecht,Gewürztraminer,Gewürztraminer
+477,gpt-4o,Rhône-style White Blend,2024-12-16T11:14:42.871Z,Domaine Maby,Rhône-style White Blend,Rhône-style White Blend
+478,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:14:42.529Z,Château Providence,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+479,gpt-4o,Chardonnay,2024-12-16T11:14:43.211Z,Domaine Corine Perchaud,Chardonnay,Chardonnay
+481,gpt-4o,Riesling,2024-12-16T11:14:48.187Z,Domaine Zind-Humbrecht,Riesling,Riesling
+482,gpt-4o,Rosé,2024-12-16T11:14:44.119Z,Château Roquefort,Rosé,Rosé
+483,gpt-4o,Melon,2024-12-16T11:14:45.586Z,Domaine Luneau-Papin,Melon,Melon
+484,gpt-4o,Muscat,2024-12-16T11:14:46.786Z,André Kientzler,Muscat,Muscat
+485,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:14:52.053Z,Sanctus,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+486,gpt-4o,Cabernet Franc,2024-12-16T11:14:50.106Z,Hospices de Saumur,Cabernet Franc,Cabernet Franc
+487,gpt-4o,Pinot Gris,2024-12-16T11:14:50.805Z,François Baur,Riesling,Riesling
+488,gpt-4o,Champagne Blend,2024-12-16T11:14:55.432Z,Vollereaux,Chardonnay,Chardonnay
+489,gpt-4o,Chardonnay,2024-12-16T11:14:54.081Z,Bruno Paillard,Champagne Blend,Champagne Blend
+490,gpt-4o,Pinot Noir,2024-12-16T11:14:53.868Z,Camille Giroud,Pinot Noir,Pinot Noir
+492,gpt-4o,Gamay,2024-12-16T11:14:58.709Z,Ferraud et Fils,Gamay,Gamay
+493,gpt-4o,Pinot Blanc,2024-12-16T11:14:57.036Z,La Cave des Vignerons de Pfaffenheim,White Blend,White Blend
+494,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:14:58.329Z,Château Larteau,Bordeaux-style Red Blend,Bordeaux-style Red Blend
+495,gpt-4o,Malbec,2024-12-16T11:15:00.140Z,Château Eugénie,Malbec-Merlot,Malbec-Merlot
+496,gpt-4o,Grenache-Syrah,2024-12-16T11:15:04.096Z,Delas Frères,Rhône-style Red Blend,Rhône-style Red Blend
+497,gpt-4o,Tannat-Cabernet Franc,2024-12-16T11:15:02.296Z,Château Peyros,Tannat-Cabernet Franc,Tannat-Cabernet Franc
+498,gpt-4o,Sauvignon Blanc,2024-12-16T11:15:03.623Z,Domaine A. Cailbourdin,Sauvignon Blanc,Sauvignon Blanc
+499,gpt-4o,Bordeaux-style Red Blend,2024-12-16T11:15:05.568Z,Château Magnol,Bordeaux-style Red Blend,Bordeaux-style Red Blend

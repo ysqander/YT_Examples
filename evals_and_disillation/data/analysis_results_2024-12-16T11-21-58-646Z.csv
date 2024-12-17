@@ -1,0 +1,3 @@
+Model,Accuracy,Total Predictions,Correct Predictions
+gpt-4o,0.8299180327868853,488,405
+gpt-4o-mini,0.744,500,372
