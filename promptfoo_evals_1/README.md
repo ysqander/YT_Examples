@@ -43,8 +43,12 @@ To get started, set your OPENAI_API_KEY environment variable, or other required 
 Next, edit promptfooconfig.yaml.
 
 Then run:
-```
-promptfoo eval
+```bash
+npx promptfoo eval
 ```
 
-Afterwards, you can view the results by running `promptfoo view`
+```bash
+pnpm dlx promptfoo eval
+```
+
+Afterwards, you can view the results by running `npx promptfoo view` or `pnpm dlx promptfoo view`
